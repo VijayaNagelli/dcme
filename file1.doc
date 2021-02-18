@@ -1,2 +1,6 @@
 This is the fourth file named file1.doc
-
+import java.*
+class rslt
+{
+public static void main(string args[])
+}
